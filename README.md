@@ -5,3 +5,8 @@ This is a simple currency converter application built with HTML, CSS, and JavaSc
 ## Note
 
 **The API used for currency conversion is currently not working, so the application does not perform conversions at this time.**
+
+
+## Live Demo
+
+You can view a live demo of the project here: [Convertor](https://shreyj03.github.io/Currency-Convertor/)
