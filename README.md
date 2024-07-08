@@ -1,6 +1,6 @@
 # Currency Converter
 
-This is a simple currency converter application built with HTML, CSS, and JavaScript. It allows users to select currencies and convert amounts between them.
+This is a simple currency converter application built with HTML, CSS, and JavaScript. It allows users to select currencies and convert amounts between them. This app was built as part of a friendly coding challenege among some friends.
 
 ## Note
 
